@@ -4,6 +4,11 @@
 3.  (notasEstudiantes(4),i[1-n])
 4.  notasEstudiantes <-- {9, 10, 7, 8}
 5.  nombresEstudiantes <-- {"Mónica", "Homero", "Antonio", "Vanesa"}
-6.  Escribir nombresEstudiantes[0] + " " + notasEstudiantes[0]
-7.  Escribir nombresEstudiantes[3] + " " + notasEstudiantes[3]
-8.  Fin
+6.  apellidosEstudiantes <-- {"Sotomayor, "Flores", "Salinas", "Vire",}
+7.  Escribir nombresEstudiantes[1] + " " + apellidoEstudiantes[1] + " " + notasEstudiantes[1]
+8.  Escribir nombresEstudiantes[0] + " " + apellidoEstudiantes[0] + " " + notasEstudiantes[0]
+9.  Fin
+
+
+// Homero Flores 10
+// Monica Sotomayor 9
